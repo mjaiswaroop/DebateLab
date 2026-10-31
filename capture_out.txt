@@ -1,0 +1,9 @@
+SUCCESS:
+Using browser binary at: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+Capturing State A: Demo Mode (No Key)...
+Saved demo_1280px.png
+Saved demo_390px.png
+Capturing State B: Live Mode (With Key)...
+Saved live_1280px.png
+Saved live_390px.png
+SUCCESS: All 4 real screenshots captured via Playwright!

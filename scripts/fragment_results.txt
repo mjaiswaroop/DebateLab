@@ -1,0 +1,173 @@
+=== FRAGMENT: 'moat' (0 matches) ===
+
+=== FRAGMENT: 'incumbent' (0 matches) ===
+
+=== FRAGMENT: 'compliance cost' (1 matches) ===
+  backend\seed_demo_history.py:352: prompt_text="Execute a 60-second impact weighing sprint comparing irreversible environmental harm against short-term compliance costs.",
+
+=== FRAGMENT: 'market concentration' (0 matches) ===
+
+=== FRAGMENT: 'mitigation framework' (0 matches) ===
+
+=== FRAGMENT: 'statutory' (6 matches) ===
+  backend\seed_demo_history.py:238: "By imposing statutory bans, this intervention drives activity into unmonitored shadow markets."
+  backend\seed_demo_history.py:258: "rather than speculative assumptions, side government proves that statutory guardrails produce net positive welfare "
+  backend\app\prompts.py:26: * CRITICAL: Do NOT invent policy models, government regulations, statutory mandates, legal enforcement, or jurisdictional bureaucracy for an athletic, artistic, cultural, or philosophical motion! Ground your rebuttal entirely within the domain of the motion.
+  backend\tests\test_debate_game.py:17: "statutory",
+  backend\tests\test_evaluation.py:135: assert "CRITICAL: Do NOT invent policy models, government regulations, statutory mandates, legal enforcement, or jurisdictional bureaucracy" in system_instruction
+  frontend\src\components\TextDebateArena.tsx:1018: ? "In direct response to the opposition's challenge on regulatory displacement, we prove that statutory enforcement..."
+
+=== FRAGMENT: 'institutional feasibility' (0 matches) ===
+
+=== FRAGMENT: 'final clash' (1 matches) ===
+  frontend\src\components\TextDebateArena.tsx:1019: : "Members of the panel, this debate collapses onto two final clashes: the feasibility of enforcement versus the catastrophic magnitude of inaction..."
+
+=== FRAGMENT: 'enforcement' (8 matches) ===
+  backend\seed_demo_history.py:345: feedback="Perfect repair: substituted broad consensus appeal with OECD tariff enforcement data.",
+  backend\app\prompts.py:26: * CRITICAL: Do NOT invent policy models, government regulations, statutory mandates, legal enforcement, or jurisdictional bureaucracy for an athletic, artistic, cultural, or philosophical motion! Ground your rebuttal entirely within the domain of the motion.
+  backend\app\routers\debate_game.py:112: NEVER uses domain-specific jargon (e.g. regulatory, enforcement, jurisdiction).
+  backend\tests\test_debate_game.py:11: "enforcement",
+  backend\tests\test_evaluation.py:135: assert "CRITICAL: Do NOT invent policy models, government regulations, statutory mandates, legal enforcement, or jurisdictional bureaucracy" in system_instruction
+  frontend\src\components\AdjudicatorChat.tsx:431: `Frame it around economic or political incentives: show why stakeholders have zero rational incentive to self-regulate without state enforcement.`
+  frontend\src\components\TextDebateArena.tsx:1018: ? "In direct response to the opposition's challenge on regulatory displacement, we prove that statutory enforcement..."
+  frontend\src\components\TextDebateArena.tsx:1019: : "Members of the panel, this debate collapses onto two final clashes: the feasibility of enforcement versus the catastrophic magnitude of inaction..."
+
+=== FRAGMENT: '74' (20 matches) ===
+  backend\app\routers\debate_game.py:215: impact_calculus=74,
+  backend\app\routers\debate_game.py:227: opponent_score=74.0,
+  frontend\package-lock.json:304: "integrity": "sha512-Td76q7j57o/tLVdgS746cYARfSyxk8iEfRxewL9h4OMzYhbW4TAcppl0mT4eyqXddh6L/jwoM75mo7ixa/pCeQ==",
+  frontend\package-lock.json:910: "integrity": "sha512-xxW5EBI8fMPuVTPBW7LL980IRbuDXlbkUAwp9DDhtb4Lnich3nJ13uYpvrX4VE74hWPf6AvHHAMmGCidcHjbfg==",
+  frontend\package-lock.json:1079: "integrity": "sha512-RkhPPp2zrqDAQA/2jNhnztcPAlv64XdhIp7a7454A5ovI7Bukxgt7MX7udwAu3zg1DcpPU0rz3VV1SeaqvY4+A==",
+  frontend\package-lock.json:1520: "integrity": "sha512-kVd74ta9eof3eJOvbNd1vGKS/XERRyQbT26Og63hIsvDO84cjD5gEOhsXf26w3FSoNlPVz84DOFcKv/oou+fMw==",
+  frontend\package-lock.json:1833: "integrity": "sha512-zozlN0UA32bSG2zkKAgQyRYSbEISVoyU6vvkKYo2aSny74D8Jh4e+POkJ6Lk0dlezZi5x7TtD+88Xb06IB8nhg==",
+  frontend\package-lock.json:2204: "integrity": "sha512-nAB74NfSNKknqQ1RrYj6uz8FcXEomu/MATJZxh/x+BArzN2U3JbOYC0APYzUIGhVY3m5hRxA8VPNdPBoG8txlA==",
+  frontend\package-lock.json:2717: "integrity": "sha512-P8BjAsXvZS+VIDUI11hHCQEv74YT67YUi5JJFNWIqL235sBmjX4+qx9Muvls5ivyNENctx46xQLQ3aTuE7ssaQ==",
+  frontend\package-lock.json:2993: "integrity": "sha512-VqKjzBLejbSMT4IgbmVgDjpkYrNWUYJnbCGo874u7MMKIWsILRX+OpX/gTk8MqjpT1A/c6HY2dCA77ZN0lkQ2Q==",
+  frontend\package-lock.json:3763: "integrity": "sha512-sNXOfKCn74rt8RICKMvJS7XKV/Xk9kA7DyJr8mJik3S7Cwgy3qlkkmyS2uQB3jiJg6VNdZd/pDBJu0nvG2NlTg==",
+  frontend\package-lock.json:4056: "integrity": "sha512-7XHNxH7qX9xG5mIwxkhumTox/MIRNcOgDrxWsMt2pAr23WHp6MrRlN7FBSFpCpr+oVO0F744iUgR82nJMfG2SA==",
+  frontend\package-lock.json:4134: "integrity": "sha512-sTSfBjoXBp89JvIKIefqw7U2CCebsc74kiY6awiGogKtoSGbgjYE/G/+l9sF3MWFPNc9IcoOC4ODfKHfxFmp0g==",
+  frontend\package-lock.json:4643: "integrity": "sha512-41Cifkg6e8TylSpdtTpeLVMqvSBEVzTttHvERD741+pnZ8ANv0004MRL43QKPDlK9cGvNp6NZWZUBlbGXYxxng==",
+  frontend\package-lock.json:4669: "integrity": "sha512-MjYsKHO5O7mCsmRGxWcLWheFqN9DJ/2TmngvjKXihe6efViPqc274+Fx/4fYj/r03+ESvBdTXK0V6tA3rgez1g==",
+  frontend\package-lock.json:4701: "integrity": "sha512-ISWac8drv4ZGfwKl5slpHG9OwPNty4jOWPRIhBpxOoD+hqITiwuipOQ2bNthAzwA3B4fIjO4Nln74N0S9byq8A==",
+  frontend\package-lock.json:5875: "integrity": "sha512-pZcd1MCJoiKiBR2NRxeCRg13uCXbydPnmB4EOeRrY7480qNWO8IIgQG6zlDkm6uRMsURXPuKq0GWtiM59a5Q6g==",
+  frontend\src\components\EndlessDebateArena.tsx:663: opponent_score: 74.0,
+  frontend\src\components\EndlessDebateArena.tsx:679: soundness: 74,
+  frontend\src\components\EndlessDebateArena.tsx:1222: ? "Score 50-74: Sound baseline claim, but vulnerable to comparative pressure from opponent counter-examples."
+
+=== FRAGMENT: 'base_score' (2 matches) ===
+  backend\seed_demo_history.py:129: base_score = 72.0 + (progress_ratio * 18.0) + random.uniform(-1.5, 2.0)
+  backend\seed_demo_history.py:130: overall_score = round(min(96.0, max(68.0, base_score)), 1)
+
+=== FRAGMENT: 'heuristic' (26 matches) ===
+  backend\app\routers\chat.py:49: model_name = evaluator.model if (evaluator.client or x_gemini_api_key) else "adjudicator-heuristic"
+  backend\app\routers\debate_game.py:103: def _heuristic_evaluate_text_turn(
+  backend\app\routers\debate_game.py:110: """Topic-agnostic heuristic debate engine for offline or fallback turn evaluation.
+  backend\app\routers\debate_game.py:168: model="heuristic-demo",
+  backend\app\routers\debate_game.py:174: def _heuristic_generate_verdict(
+  backend\app\routers\debate_game.py:235: model="heuristic-demo",
+  backend\app\routers\debate_game.py:274: return _heuristic_evaluate_text_turn(
+  backend\app\routers\debate_game.py:316: return _heuristic_evaluate_text_turn(
+  backend\app\routers\debate_game.py:336: return _heuristic_evaluate_text_turn(
+  backend\app\routers\debate_game.py:363: return _heuristic_evaluate_text_turn(
+  backend\app\routers\debate_game.py:412: return _heuristic_evaluate_text_turn(
+  backend\app\routers\debate_game.py:430: return _heuristic_generate_verdict(
+  backend\app\routers\debate_game.py:494: logger.warning(f"Live Gemini verdict generation failed, using heuristic: {e}")
+  backend\app\routers\debate_game.py:495: return _heuristic_generate_verdict(
+  backend\app\services\gemini.py:30: def _heuristic_chat_reply(
+  backend\app\services\gemini.py:38: """Intelligent heuristic and contextual debate logic coach when live Gemini API key is not active."""
+  backend\app\services\gemini.py:261: return _heuristic_chat_reply(
+  backend\app\services\gemini.py:304: logger.warning(f"Live Gemini chat call failed, falling back to heuristic: {e}")
+  backend\app\services\gemini.py:305: return _heuristic_chat_reply(
+  backend\tests\test_debate_game.py:85: assert data["model"] == "heuristic-demo"
+  frontend\src\app\arena\page.tsx:351: Operating with offline heuristic analysis engine. Connect your Google Gemini API key to activate live 2.5 Flash multimodal transcription &amp; adversarial refutation.
+  frontend\src\components\ApiKeyModal.tsx:109: : "API key cleared. System reverted to intelligent heuristic coach.",
+  frontend\src\components\ApiKeyModal.tsx:167: <span>Using local heuristic adjudicator (add key for live AI)</span>
+  frontend\src\components\EndlessDebateArena.tsx:536: setActiveDemoReason(response.demo_reason || "Heuristic demo mode");
+  frontend\src\components\EndlessDebateArena.tsx:724: CrossEx is running in offline heuristic mode. To unlock live Gemini 2.5 Flash adjudication, add your free API key.
+  frontend\src\components\EndlessDebateArena.tsx:1016: <strong>Demo Mode Active:</strong> No API key detected. Sparring runs with offline rule-based heuristics.
+
+=== FRAGMENT: 'offline' (17 matches) ===
+  backend\alembic\env.py:28: def run_migrations_offline() -> None:
+  backend\alembic\env.py:29: """Run migrations in 'offline' mode."""
+  backend\alembic\env.py:69: if context.is_offline_mode():
+  backend\alembic\env.py:70: run_migrations_offline()
+  backend\app\routers\debate_game.py:110: """Topic-agnostic heuristic debate engine for offline or fallback turn evaluation.
+  frontend\scripts\capture_real_screenshots.js:81: demo_reason: "Offline fallback mode"
+  frontend\scripts\capture_real_screenshots.js:87: activeDemoReason: "Offline fallback mode"
+  frontend\src\app\arena\page.tsx:351: Operating with offline heuristic analysis engine. Connect your Google Gemini API key to activate live 2.5 Flash multimodal transcription &amp; adversarial refutation.
+  frontend\src\components\AdjudicatorChat.tsx:113: // Intelligent fallback response if backend is offline
+  frontend\src\components\EndlessDebateArena.tsx:613: setActiveDemoReason("Offline fallback mode");
+  frontend\src\components\EndlessDebateArena.tsx:625: demo_reason: "Offline fallback mode",
+  frontend\src\components\EndlessDebateArena.tsx:692: demo_reason: "Offline fallback mode",
+  frontend\src\components\EndlessDebateArena.tsx:724: CrossEx is running in offline heuristic mode. To unlock live Gemini 2.5 Flash adjudication, add your free API key.
+  frontend\src\components\EndlessDebateArena.tsx:1016: <strong>Demo Mode Active:</strong> No API key detected. Sparring runs with offline rule-based heuristics.
+  frontend\src\components\EndlessDebateArena.tsx:1067: Demo mode: not live AI ({m.demo_reason || "Offline"})
+  frontend\src\lib\api.ts:103: // Backend offline
+  frontend\src\lib\api.ts:243: // Fail-safe: If backend is temporarily offline, instantiate a local active session
+
+=== FRAGMENT: 'fallback' (64 matches) ===
+  README.md:14: - **Audio Capture & Live Waveform:** High-performance Web Audio API `AnalyserNode` live canvas visualizer with DPR scaling, 120s auto-stop, input decibel meter, and automatic MIME negotiation (`webm/opus` / `mp4` fallback).
+  README.md:47: │   │   ├── auth.py           # JWT auth with automatic guest/demo fallback
+  SPECIFICATION.md:5: 1. **Audio format risk.** Gemini's documented audio formats are WAV, MP3, AIFF, AAC, OGG Vorbis and FLAC. `audio/webm;codecs=opus` from `MediaRecorder` is widely reported to work, but it isn't in that list, and Safari records `audio/mp4` instead. I've designed for this: the backend normalizes the MIME type and has an optional ffmpeg transcode fallback. Test this on day one of Phase 1.
+  SPECIFICATION.md:15: │  getUserMedia ─► MediaStream ─┬─► MediaRecorder (webm/opus | mp4 fallback) ─► Blob  │
+  backend\.env.example:8: # Fallback SQLite for quick local development without Postgres:
+  backend\app\routers\chat.py:54: fallback_reply = (
+  backend\app\routers\chat.py:59: return DebateChatResponse(reply=fallback_reply, model="fallback-rules")
+  backend\app\routers\debate_game.py:110: """Topic-agnostic heuristic debate engine for offline or fallback turn evaluation.
+  backend\app\routers\debate_game.py:269: "Debate turn processed: path=fallback, reason=no key, motion=%s, round=%d, difficulty=%s",
+  backend\app\routers\debate_game.py:313: "Debate turn processed: path=fallback, reason=empty response, motion=%s, round=%d, difficulty=%s",
+  backend\app\routers\debate_game.py:333: "Debate turn processed: path=fallback, reason=schema validation failure, motion=%s, round=%d, difficulty=%s",
+  backend\app\routers\debate_game.py:360: "Debate turn processed: path=fallback, reason=off-topic guard triggered (%s), motion=%s, round=%d, difficulty=%s",
+  backend\app\routers\debate_game.py:409: "Debate turn processed: path=fallback, reason=exception, motion=%s, round=%d, difficulty=%s",
+  backend\app\services\quote_verifier.py:47: substring match. Fuzzy fallback is strictly disabled for short phrases to eliminate false
+  backend\app\services\quote_verifier.py:50: fuzzy fallback using rapidfuzz partial_ratio >= 90.0 (fuzzy_threshold). The 90.0 threshold
+  backend\app\services\quote_verifier.py:113: # 3. Fuzzy fallback ONLY for longer quotes (>= 4 words) with threshold >= 90.0
+  backend\app\services\quote_verifier.py:122: # Short quotes (< 4 words) require exact match; fuzzy fallback is disabled
+  backend\tests\test_debate_game.py:26: async def test_fallback_for_cricket_motion_has_no_policy_jargon(async_client: AsyncClient):
+  backend\tests\test_debate_game.py:27: """Assert fallback output for 'virat kholi is the goat in cricket' contains no policy/regulation vocabulary."""
+  backend\tests\test_debate_game.py:53: assert jargon not in combined_text, f"Found forbidden policy jargon '{jargon}' in fallback response"
+  backend\tests\test_debate_game.py:62: async def test_fallback_returns_demo_badge_and_null_score(async_client: AsyncClient):
+  backend\tests\test_debate_game.py:63: """Assert Demo badge flag is returned and score is null when fallback is used."""
+  backend\tests\test_debate_game.py:324: # 2. Assert successful live path (not fallback demo)
+  backend\tests\test_debate_game.py:391: assert data["is_demo"] is False, f"Expected live response, but got fallback: {data.get('demo_reason')}"
+  backend\tests\test_quote_verification.py:130: fallback using rapidfuzz partial_ratio >= 90.0 to tolerate minor ASR/punctuation differences.
+  frontend\scripts\capture_real_screenshots.js:81: demo_reason: "Offline fallback mode"
+  frontend\scripts\capture_real_screenshots.js:87: activeDemoReason: "Offline fallback mode"
+  frontend\src\app\arena\page.tsx:832: fallback={
+  frontend\src\app\game\page.tsx:55: <Suspense fallback={<div className="min-h-screen bg-[#050505] text-white flex items-center justify-center">Loading Arena...</div>}>
+  frontend\src\components\AdjudicatorChat.tsx:113: // Intelligent fallback response if backend is offline
+  frontend\src\components\AdjudicatorChat.tsx:114: const fallbackReply = generateFallbackReply(query, topic, thesis, fallacies);
+  frontend\src\components\AdjudicatorChat.tsx:115: const fallbackMessage: Message = {
+  frontend\src\components\AdjudicatorChat.tsx:118: content: fallbackReply,
+  frontend\src\components\AdjudicatorChat.tsx:121: setMessages((prev) => [...prev, fallbackMessage]);
+  frontend\src\components\AdjudicatorChat.tsx:123: speak(fallbackReply);
+  frontend\src\components\AdjudicatorChat.tsx:347: // Intelligent Fallback Logic Coach Response Generator
+  frontend\src\components\AdjudicatorChat.tsx:348: function generateFallbackReply(
+  frontend\src\components\EndlessDebateArena.tsx:611: // Also render fallback turn so user is never blocked
+  frontend\src\components\EndlessDebateArena.tsx:613: setActiveDemoReason("Offline fallback mode");
+  frontend\src\components\EndlessDebateArena.tsx:618: const fallbackOpponentMsg: ChatMessage = {
+  frontend\src\components\EndlessDebateArena.tsx:619: id: `opp-fallback-${Date.now()}`,
+  frontend\src\components\EndlessDebateArena.tsx:625: demo_reason: "Offline fallback mode",
+  frontend\src\components\EndlessDebateArena.tsx:627: setMessages((prev) => [...prev, fallbackOpponentMsg]);
+  frontend\src\components\EndlessDebateArena.tsx:660: const fallbackVerdict: DebateVerdictResponse = {
+  frontend\src\components\EndlessDebateArena.tsx:692: demo_reason: "Offline fallback mode",
+  frontend\src\components\EndlessDebateArena.tsx:694: setVerdict(fallbackVerdict);
+  frontend\src\lib\api.ts:67: async function fetchWithFallback(
+  frontend\src\lib\api.ts:78: const fallbackUrl = `http://127.0.0.1:8000${path}`;
+  frontend\src\lib\api.ts:80: const fallbackRes = await fetch(fallbackUrl, options);
+  frontend\src\lib\api.ts:81: return fallbackRes;
+  frontend\src\lib\api.ts:96: const res = await fetchWithFallback("/api/config/status", {
+  frontend\src\lib\api.ts:120: const res = await fetchWithFallback("/api/config/test-key", {
+  frontend\src\lib\api.ts:151: const res = await fetchWithFallback("/api/config/key", {
+  frontend\src\lib\api.ts:194: const response = await fetchWithFallback("/api/evaluate", {
+  frontend\src\lib\api.ts:220: const response = await fetchWithFallback("/api/sessions", {
+  frontend\src\lib\api.ts:283: const response = await fetchWithFallback(`/api/sessions/${sessionId}/turn`, {
+  frontend\src\lib\api.ts:300: const response = await fetchWithFallback(`/api/sessions/${sessionId}`, {
+  frontend\src\lib\api.ts:313: const response = await fetchWithFallback(`/api/sessions/${sessionId}/complete`, {
+  frontend\src\lib\api.ts:336: const response = await fetchWithFallback("/api/chat", {
+  frontend\src\lib\api.ts:357: const response = await fetchWithFallback("/api/debate/text-turn", {
+  frontend\src\lib\api.ts:376: const response = await fetchWithFallback("/api/debate/verdict", {
+  frontend\src\lib\api.ts:393: const response = await fetchWithFallback("/api/profile", {
+  frontend\src\lib\api.ts:406: const response = await fetchWithFallback("/api/drills", {
+  frontend\src\lib\api.ts:421: const response = await fetchWithFallback(`/api/sessions/${sessionId}/ballots`, {
+
