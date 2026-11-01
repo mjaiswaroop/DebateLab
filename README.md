@@ -1,4 +1,4 @@
-# CrossEx — AI Parliamentary Debate Adjudicator & Speech Coach
+# CrossEx DebateLab — AI Parliamentary Debate Adjudicator & Speech Coach
 
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.115+-009688?logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
 [![Next.js](https://img.shields.io/badge/Next.js-15+-000000?logo=next.js&logoColor=white)](https://nextjs.org)
